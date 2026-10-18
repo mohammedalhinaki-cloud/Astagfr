@@ -1,0 +1,6 @@
+{
+  "name": "استغفار",
+  "description": "تطبيق استغفار إسلامي بسيط وسلس بعداد مفتوح ومخصص وتصميم عربي هادئ ومريح للعين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
