@@ -61,7 +61,7 @@ Screenshots of the running application can be added in a future update. No scree
 A personal Android application project, presented as part of a software development portfolio.
 
 **Developer:** Mohammed · Computer Science student at Qassim University  
-**Portfolio:** Coming soon — see other deployed work at [MAAOUN](https://www.maaoun.com/)  
+**Portfolio:** [Developer Portfolio](https://mohammedalhinaki-cloud.github.io/) · [Project Showcase](https://mohammedalhinaki-cloud.github.io/Astagfr/)  
 **GitHub:** [mohammedalhinaki-cloud](https://github.com/mohammedalhinaki-cloud)
 
 ---
